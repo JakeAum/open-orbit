@@ -1,1 +1,1 @@
-# open-orbit
+# The Open Orbit Foundation
